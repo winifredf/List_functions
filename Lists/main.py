@@ -1,3 +1,3 @@
 emotions = ["happy", "exuberant", "joy", "excitement", "enthused"]
 
-print(emotions[0])
+print(emotions)
