@@ -1,5 +1,4 @@
-def say_hello():
-    print("Hello User")
-print("first")
-say_hello()
-print("last")
+def say_hello(name):
+    print("Hello " + name + "!")
+
+say_hello("Miami")
